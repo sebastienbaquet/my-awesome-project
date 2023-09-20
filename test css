@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body nav {
+    background-color: #a306b6;
+    padding: 1%;
+}
+
+h1 {
+    background-image: url(/asset/OIP.jpg);
+    color: white;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 9%;
+}
+
+li {
+    display: inline;
+}
+
+main {
+    text-align: center;
+    margin: 0% 30%;
+}
+
+h3 {
+    text-align: center;
+    margin: 5% 30%;
+}
+
+footer {
+    height: 5%;
+    width: 100%;
+    bottom: 0%;
+    background-color: #a306b6;
+    position: absolute;
+    padding: 5px 0;
+}
+display
